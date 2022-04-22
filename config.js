@@ -7,7 +7,7 @@ const CONFIG = {
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙 A có điều muốn nói ạ ',
     desc: ' hí hí e có yêu a nhiều không vậy ',
-    btnYes: 'Vẫn cứ là iu anh <33',
+    btnYes: 'Vẫn cứ là iu anh  <33',
     btnNo: 'Không nha a xấu trai lại còn da đen  :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao e lại yêu a nhiều thế nhỉ <3',
     btnReply: 'Gửi cho anh nhá <3',
