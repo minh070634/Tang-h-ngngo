@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Hế lu Hằng Ngô !',
     introDesc: 'Anh có điều này muốn nói với em nè ',
     btnIntro: 'hihi',
-    title: ' Đã từ rất lâu rồi a muốn hỏi e là : e iu a nhìu lắm chứ  ',
+    title: ' Đã từ rất lâu rồi a muốn hỏi e là : e iu a nhìu lắm chứ ',
     desc: 'iu a nhiều không nè ',
     btnYes: 'có nè ',
     btnNo: ' không nè  ',
